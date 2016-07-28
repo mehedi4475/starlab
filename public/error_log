@@ -1,0 +1,15 @@
+[26-Mar-2016 03:35:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/krishiso/public_html/starlab/storage/framework/views/7de52cb1cf25dc227421772afa4bfe96 on line 34
+[26-Mar-2016 07:00:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Starlab::fitUnfit() in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 677
+[26-Mar-2016 07:01:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 684
+[26-Mar-2016 07:01:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 684
+[26-Mar-2016 07:01:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 395
+[26-Mar-2016 07:07:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 253
+[26-Mar-2016 07:09:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 108
+[26-Mar-2016 07:12:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 615
+[26-Mar-2016 07:12:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 253
+[26-Mar-2016 07:13:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 55
+[26-Mar-2016 07:19:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 683
+[26-Mar-2016 07:19:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/krishiso/public_html/starlab/app/Http/Controllers/Starlab.php on line 683
+[26-Mar-2016 11:26:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/krishiso/public_html/starlab/storage/framework/views/01a11bce82fb6886160cf355cb0d885b on line 29
+[26-Mar-2016 11:33:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/krishiso/public_html/starlab/storage/framework/views/01a11bce82fb6886160cf355cb0d885b on line 41
+[26-Mar-2016 11:33:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/krishiso/public_html/starlab/storage/framework/views/01a11bce82fb6886160cf355cb0d885b on line 41

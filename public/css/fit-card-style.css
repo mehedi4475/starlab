@@ -1,0 +1,150 @@
+/* front - left side*/
+
+*{
+    font-size: 8px;
+}
+
+table.details_table{
+    border: none !important;
+}
+
+table tr td{
+    padding: 0px;
+}
+
+.mainRow{
+    float: right;
+}
+
+.mainRow .floatLeft{
+    float: left !important;
+    width: 200px;
+}
+
+
+.firstCol{
+    width:40px;
+    padding-left: 10px;
+}
+
+.secCol{
+    width:70px;
+    padding-left: 20px;
+}
+
+.thridCol{
+    width:70px;
+}
+
+.floatLeft table.details_table tr td{
+    padding-left: 10px;
+}
+
+
+.report_title{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+/* front - right side*/
+
+.floatLeft table.details_table tr td.frontrightside{
+    width: 220px;
+}
+
+.titleh2{  
+    padding:-50px 0px 0px 0px;
+    font-size: 17px;
+    text-align: center;
+    font-family: 'entury gothic bold';
+    color: #2e3092
+        
+}
+
+.titleh1{
+    font-size: 22px;
+    font-family: arial;
+    text-align: center;
+    color: #00a550;
+    padding: 50px 0px 80px 0px;
+}
+
+.starlablogoatcard{
+    padding: 0px 0px 0px 0px;
+    margin:0px 0px -100px 20px; 
+}
+
+/*
+
+
+/*Back left side*/
+
+td.bl_firstrow table tr td{
+    line-height: 15px;
+}
+
+td.bl_secondrow table tr td{
+    line-height: 15px;
+}
+
+.bl_ht, .bl_wt, .bl_years{
+    font-weight: bold;
+}
+
+
+
+*/
+
+/*Back right */
+
+.br_space{
+    width: 20px;
+}
+
+.br_medical_examination{  
+    width: 150px;
+    
+}
+
+
+.br_results{
+    width: 50px;
+}
+
+
+.br_country{
+    text-transform: uppercase;
+    width: 200px;
+    padding:5px;
+}
+
+.br_medical{
+    padding-left: 120px;
+}
+
+.bl_medical_rep{
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

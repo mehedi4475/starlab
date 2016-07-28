@@ -1,0 +1,210 @@
+/*--------------------------------------------------------
+                Import font                         
+--------------------------------------------------------*/
+@font-face {
+  font-family: 'entury gothic bold';
+  src: url('fonts/entury-gothic-bold.woff2') format('woff2'),
+       url('fonts/entury-gothic-bold.woff') format('woff'),
+       url('fonts/entury-gothic-bold.ttf') format('truetype');
+}
+
+/*--------------------------------------------------------
+                Global Style                          
+--------------------------------------------------------*/
+html, body, h1, h2, h3, p, td , th, tr, section, div {
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+}
+body {
+	font-family: 'Times New Roman', sans-serif;
+}
+p {
+	font-size: 9px;
+}
+section, .section {
+	float: left;
+}
+.section {
+	width: 288px;
+}
+.container {
+	width: 612px;
+	margin: 0 auto;
+}
+
+/*--------------------------------------------------------
+               Medical Reports                       
+--------------------------------------------------------*/
+div.section:first-child {
+	margin-right: 30px;
+}
+.slfc-mr .slfc-result-container{
+	padding-left: 6px;
+	padding-bottom: 115px;
+	width: 280px;
+	height: 304px;
+}
+.slfc-mr-details div {
+	float: left;
+}
+.slfc-mr-photo {
+	float: left;
+	margin-right: 12px;
+	width: 96px;
+}
+.slfc-mr-photo img {
+	width: 96px;
+}
+.slfc-mr-details-text {
+	width: 170px;
+}
+.slfc-mr-single-text p{
+	float: left;
+	line-height: 1.8;
+}
+.slfc-mr-single-text.has-no-border p:first-child {
+	width: 60px;
+}
+.slfc-mr-single-text.has-no-border p:last-child{
+	margin-left: 2px;
+	border-bottom: 1px dotted #000000;
+	width: 106px;
+}
+.slfc-mr-single-text {
+	clear: both;
+}
+.slfc-mr-single-text.has-border{
+	border-bottom: 1px solid #000000;
+	font-weight: bold;
+	width: 100%;
+}
+.slfc-mr-single-text.has-border:first-child {
+
+}
+.slfc-mr-single-text.has-border p:last-child {
+	margin-left: 2px;
+	border-bottom: none;
+}
+.slfc-mr-personal-profile h3 {
+	clear: both;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 108px;
+	line-height: 70px;
+}
+.slfc-mr-info-details {
+	clear: both;
+}
+.history {
+	clear: both;
+	font-weight: bold;
+	margin-left: 12px;
+	padding-top: 21px;
+}
+.slfc-mr-info p {
+	float: left;
+	line-height: 1.8;
+}
+.slfc-mr-info p:first-child {
+	margin-left: 6px;
+}
+.slfc-mr-info p:last-child {
+	margin-left: 6px;
+	font-weight: bold;
+	border-bottom: 1px dotted #000000;
+}
+/*--------------------------------------------------------
+               Medical Examinations                        
+--------------------------------------------------------*/
+.slfc-eye-ear {
+	margin-left: 34px;
+}
+.slfc-eye-ear-single div {
+	float: left;
+}
+.slfc-eye-position,
+.slfc-ear-position {
+	margin-left: 79px;
+	margin-right: 12px;
+	border-right: 1px solid #000000;
+}
+.slfc-eye-position {
+	padding-right: 35px;
+}
+.slfc-ear-position {
+	padding-right: 37px;
+}
+.slfc-eye-ear-single {
+	border-right: 1px solid #000000;
+	min-width: 100px;
+}
+.slfc-examination-heading {
+	border-right: 1px solid #000000;
+	width: 167px;
+	padding-top: 16px;
+	margin-left: 6px;
+}
+.slfc-examination-heading h3{
+	font-size: 12px;
+	font-weight: bold;
+}
+.slfc-examination-heading p {
+	line-height: 1.5;
+}
+.slfc-examination {
+	clear: both;
+	margin-left: 34px;
+}
+.slfc-examination p {
+	float: left;
+	line-height: 1.56;
+}
+.slfc-examination p:first-child {
+	width: 139px;
+	border-right: 1px solid #000000;
+}
+.slfc-examination p:last-child {
+	margin-left: 12px;
+}
+.slfc-eye-ear p {
+	line-height: 1.5;
+}
+
+.slfc-section-name {
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 60px;
+}
+.slfc-result-heading p{
+	float: left;
+	font-weight: bold;
+	font-size: 13px;
+	border: 1px solid #000000;
+	border-bottom: none;
+	height: 16px;
+	line-height: 16px;
+	padding-left: 5px;
+}
+.slfc-result-heading p:first-child{
+	border-right: none;
+	width: 168px;
+}
+.slfc-result-heading p:last-child {
+	width: 107px;
+}
+.slfc-result-container {
+	clear: both;
+	border: 1px solid #000000;
+	border-bottom: none;
+	overflow: hidden;
+}
+.slfc-result-container:last-child {
+	border-bottom: 1px solid #000000;
+}
+.slfc-investigation-name {
+	width: 62px;
+}
+.slfc-investigation-result {
+	border-left: 1px solid #000000;
+}
